@@ -17,7 +17,7 @@ export default function Footer() {
           <a href="#contact">Contact</a>
         </div>
 
-        <a className="footer-wa" href="https://wa.me/919784030765" target="_blank" rel="noreferrer">
+        <a className="footer-wa" href="https://wa.me/919460907988" target="_blank" rel="noreferrer">
           WhatsApp ↗
         </a>
       </div>

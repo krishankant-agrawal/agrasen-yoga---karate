@@ -16,7 +16,7 @@ export default function Contact() {
             </p>
 
             <div className="contact-list">
-              <a href="https://wa.me/919784030765" target="_blank" rel="noreferrer">
+              <a href="https://wa.me/919460907988" target="_blank" rel="noreferrer">
                 <Icon>◉</Icon>
                 <span>
                   <small>WhatsApp</small>
@@ -50,7 +50,7 @@ export default function Contact() {
             </p>
             <a
               className="btn btn-primary full"
-              href="https://wa.me/919784030765?text=Hi%20Agrasen%20Yoga%20%26%20Karate%20Classes%2C%20please%20share%20your%20latest%20batch%20timings%20and%20admission%20details."
+              href="https://wa.me/919460907988?text=Hi%20Agrasen%20Yoga%20%26%20Karate%20Classes%2C%20please%20share%20your%20latest%20batch%20timings%20and%20admission%20details."
               target="_blank"
               rel="noreferrer"
             >

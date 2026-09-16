@@ -8,7 +8,7 @@ export default function CTA() {
         </div>
         <a
           className="btn btn-light"
-          href="https://wa.me/919784030765?text=Hi%20Agrasen%20Yoga%20%26%20Karate%20Classes%2C%20I%20want%20to%20join.%20Please%20share%20the%20batch%20details."
+          href="https://wa.me/919460907988?text=Hi%20Agrasen%20Yoga%20%26%20Karate%20Classes%2C%20I%20want%20to%20join.%20Please%20share%20the%20batch%20details."
           target="_blank"
           rel="noreferrer"
         >
