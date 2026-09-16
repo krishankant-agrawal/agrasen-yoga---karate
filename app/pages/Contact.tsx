@@ -20,7 +20,7 @@ export default function Contact() {
                 <Icon>◉</Icon>
                 <span>
                   <small>WhatsApp</small>
-                  <strong>+91 97840 30765</strong>
+                  <strong>+91 94609 07988</strong>
                 </span>
               </a>
 
